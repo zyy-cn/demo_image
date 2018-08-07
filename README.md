@@ -1,1 +1,1 @@
-This repository store demo.gifs used for other repositories.
+This repository stores demo.gifs used for other repositories.
